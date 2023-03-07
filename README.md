@@ -1,2 +1,2 @@
 # Java_Encapsulation
-Implementing Encapsultion using Packages and Access Specifiers
+In Java Encapsultion can be achieved using Classes, Packages and Access Specifiers
